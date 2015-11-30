@@ -8,33 +8,35 @@
 或许你还在犹豫，一门新的语言让他再发展发展再学也不迟，但是在中国你懂的，学技术要从技术还是娃娃的时候学起。
 ![](http://mmbiz.qpic.cn/mmbiz/tnZGrhTk4ddPia1gx06wgm9FY6YQWH465toiclyGdeEjobOdib0Pl2SbwWof7JPlPOJwA8Ur9zs2aAO2EdW7qb4qg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1)
 
+#新闻
+- 天猫技术团队使用React Native代替H5实现产品化落地 http://mp.weixin.qq.com/s?__biz=MzA3Mjk1MjA4Nw==&mid=209278158&idx=1&sn=0a6a12eeab5ed87973de055196eac5b8#rd
+- 饿了么蜂鸟众包团队率先实现通知模块React Native Android 线上发布 体验地址http://zhushou.360.cn/detail/index/soft_id/3131574
+
+
 #鸡汤总览
 
-- 了解React-native全貌加鸡汤，看完就会手痒 http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401107957&idx=1&sn=200418877771f656c1a0ab33ad407516&scene=1&srcid=1119XfFA8t5QQprIjzp76fcr&key=ff7411024a07f3ebf6601418be94ccd6219ed18e580029547278b6eadd5def524defc8dbfdfcf673a7daa87723cfa4bb&ascene=0&uin=NTYzMDc5MTc1&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=a82zcv0P%2B6ztN4xgcdnD%2FWtFbQjxhMOiiUJGZVbk6FUhTeozLqrMlGuES%2FvVmaI0
+- [了解React-native全貌加鸡汤，看完就会手痒](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401107957&idx=1&sn=200418877771f656c1a0ab33ad407516&scene=1&srcid=1119XfFA8t5QQprIjzp76fcr&key=ff7411024a07f3ebf6601418be94ccd6219ed18e580029547278b6eadd5def524defc8dbfdfcf673a7daa87723cfa4bb&ascene=0&uin=NTYzMDc5MTc1&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=a82zcv0P%2B6ztN4xgcdnD%2FWtFbQjxhMOiiUJGZVbk6FUhTeozLqrMlGuES%2FvVmaI0)
 
 
 #入门教程
 
 - react-native-android 基础教程 https://github.com/yipengmu/react-native-android-lession
-- react-native实战--简单登录UI实现 https://github.com/hufeng/iThink/issues/3
-- React Native for Android 实践 -- 实现知乎日报客户端 http://www.race604.com/react-native-android-practice/
+- 学习 React Native for Android：React 基础 http://hahack.com/codes/learn-react-native-for-android-02/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+-react-native实战--简单登录UI实现
+https://github.com/hufeng/iThink/issues/3
+- React：组件的生命周期 http://www.ido321.com/1653.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+- React Native For Android 架构初探 http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=0#rd
 
 #踩坑列表
 
 - react-native-android 问题汇总 https://github.com/yipengmu/ReactNative_Android_QA
 
-- 公司同事踩坑过程中的总结 http://richard-cao.github.io/2015/11/24/React-native-Android-初次踩坑之旅/#rd
+- 公司同事踩坑过程中的总结
+http://richard-cao.github.io/2015/11/24/React-native-Android-初次踩坑之旅/#rd
 - React-native Android 在Jenkins上配置自动打包方案 (原创)http://blog.csdn.net/mobilexu/article/details/50084115
-
-#React-native Android开源项目
-- HackerNews-React-Native https://github.com/iSimar/HackerNews-React-Native
-- 煎蛋客户端 https://github.com/w4lle/JianDan-React-Native
-- 知乎日报Android版 https://github.com/race604/ZhiHuDaily-React-Native
-- ziliun-react-native https://github.com/sonnylazuardi/ziliun-react-native
-- FinanceReactNative https://github.com/7kfpun/FinanceReactNative
+- Windows下搭建React Native开发环境 http://www.jianshu.com/p/3d716097fe08?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 #资源列表
 
 - MRN 0.1.0发布了，MRN是一个基于React Native的Material Design风格的组件库。
 [官方网站 ](http://mrn.js.org)  -- [Github ](https://github.com/binggg/mrn)---[示例应用在线演示](https://appetize.io/app/j48zj9r83cetpd1mhg4g8buc4w) ---- [DemoAPP](https://github.com/binggg/MaterialReactNative/blob/master/android/app/build/outputs/apk/app-release.apk?) 备注，由于用了API21+的API，暂时只支持安卓5.0以上，后期会支持低版本
-- react-native-sqlite-storage https://github.com/andpor/react-native-sqlite-storage
