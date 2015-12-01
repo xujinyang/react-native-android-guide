@@ -9,8 +9,8 @@
 ![](http://mmbiz.qpic.cn/mmbiz/tnZGrhTk4ddPia1gx06wgm9FY6YQWH465toiclyGdeEjobOdib0Pl2SbwWof7JPlPOJwA8Ur9zs2aAO2EdW7qb4qg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1)
 
 #新闻
-- 天猫技术团队使用React Native代替H5实现产品化落地 http://mp.weixin.qq.com/s?__biz=MzA3Mjk1MjA4Nw==&mid=209278158&idx=1&sn=0a6a12eeab5ed87973de055196eac5b8#rd
-- 饿了么蜂鸟众包团队率先实现通知模块React Native Android 线上发布 体验地址http://zhushou.360.cn/detail/index/soft_id/3131574
+- [天猫技术团队使用React Native代替H5实现产品化落地](http://mp.weixin.qq.com/s?__biz=MzA3Mjk1MjA4Nw==&mid=209278158&idx=1&sn=0a6a12eeab5ed87973de055196eac5b8#rd) 
+- 饿了么蜂鸟众包团队率先实现通知模块React Native Android 线上发布 [体验地址](http://zhushou.360.cn/detail/index/soft_id/3131574)
 
 
 #鸡汤总览
@@ -20,27 +20,31 @@
 
 #入门教程
 
-- react-native-android 基础教程 https://github.com/yipengmu/react-native-android-lession
-- 学习 React Native for Android：React 基础 http://hahack.com/codes/learn-react-native-for-android-02/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
--react-native实战--简单登录UI实现
-https://github.com/hufeng/iThink/issues/3
-- React：组件的生命周期 http://www.ido321.com/1653.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-- React Native For Android 架构初探 http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=0#rd
-- React-Native-Remote-Update (react-native-android 热更新方案)https://github.com/fengjundev/React-Native-Remote-Update
+- [react-native-android 基础教程](https://github.com/yipengmu/react-native-android-lession) 
+
+- [学习 React Native for Android：React 基础 ](http://hahack.com/codes/learn-react-native-for-android-02/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+- [react-native实战--简单登录UI实现](https://github.com/hufeng/iThink/issues/3)
+
+- [React：组件的生命周期](http://www.ido321.com/1653.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+- [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=0#rd) 
+
+- [React-Native-Remote-Update](https://github.com/fengjundev/React-Native-Remote-Update) (react-native-android 热更新方案)
 
 
 #踩坑列表
 
-- react-native-android 问题汇总 https://github.com/yipengmu/ReactNative_Android_QA
+- [react-native-android 问题汇总](https://github.com/yipengmu/ReactNative_Android_QA) 
 
-- 公司同事踩坑过程中的总结
-http://richard-cao.github.io/2015/11/24/React-native-Android-初次踩坑之旅/#rd
-- React-native Android 在Jenkins上配置自动打包方案 (原创)http://blog.csdn.net/mobilexu/article/details/50084115
-- Windows下搭建React Native开发环境 http://www.jianshu.com/p/3d716097fe08?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+- [公司同事踩坑过程中的总结](http://richard-cao.github.io/2015/11/24/React-native-Android-初次踩坑之旅/#rd)
+
+- [React-native Android 在Jenkins上配置自动打包方案](http://blog.csdn.net/mobilexu/article/details/50084115) (原创)
+- [Windows下搭建React Native开发环境](http://www.jianshu.com/p/3d716097fe08?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 
 
 #React-native Android开源项目
-- HackerNews-React-Native https://github.com/iSimar/HackerNews-React-Native
+- HackerNews-React-Native   https://github.com/iSimar/HackerNews-React-Native
 - 煎蛋客户端 https://github.com/w4lle/JianDan-React-Native
 - 知乎日报Android版 https://github.com/race604/ZhiHuDaily-React-Native
 - ziliun-react-native https://github.com/sonnylazuardi/ziliun-react-native
