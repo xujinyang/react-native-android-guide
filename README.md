@@ -26,7 +26,7 @@
 https://github.com/hufeng/iThink/issues/3
 - React：组件的生命周期 http://www.ido321.com/1653.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 - React Native For Android 架构初探 http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=0#rd
-
+- React-Native-Remote-Update (react-native-android 热更新方案)https://github.com/fengjundev/React-Native-Remote-Update
 #踩坑列表
 
 - react-native-android 问题汇总 https://github.com/yipengmu/ReactNative_Android_QA
