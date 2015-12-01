@@ -27,6 +27,8 @@ https://github.com/hufeng/iThink/issues/3
 - React：组件的生命周期 http://www.ido321.com/1653.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 - React Native For Android 架构初探 http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=0#rd
 - React-Native-Remote-Update (react-native-android 热更新方案)https://github.com/fengjundev/React-Native-Remote-Update
+
+
 #踩坑列表
 
 - react-native-android 问题汇总 https://github.com/yipengmu/ReactNative_Android_QA
@@ -35,6 +37,15 @@ https://github.com/hufeng/iThink/issues/3
 http://richard-cao.github.io/2015/11/24/React-native-Android-初次踩坑之旅/#rd
 - React-native Android 在Jenkins上配置自动打包方案 (原创)http://blog.csdn.net/mobilexu/article/details/50084115
 - Windows下搭建React Native开发环境 http://www.jianshu.com/p/3d716097fe08?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+
+#React-native Android开源项目
+- HackerNews-React-Native https://github.com/iSimar/HackerNews-React-Native
+- 煎蛋客户端 https://github.com/w4lle/JianDan-React-Native
+- 知乎日报Android版 https://github.com/race604/ZhiHuDaily-React-Native
+- ziliun-react-native https://github.com/sonnylazuardi/ziliun-react-native
+- FinanceReactNative https://github.com/7kfpun/FinanceReactNative
+- DoubanMovie-React-Native（豆瓣电影）https://github.com/fengjundev/DoubanMovie-React-Native
 
 #资源列表
 
