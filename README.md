@@ -19,7 +19,7 @@
 
 
 #入门教程
-
+- [中国好教程-react native中文视频教程](http://www.ejiakt.com/album/show/211)(看视频是小白入门的很好途径)
 - [react-native-android 基础教程](https://github.com/yipengmu/react-native-android-lession) 
 
 - [学习 React Native for Android：React 基础 ](http://hahack.com/codes/learn-react-native-for-android-02/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -42,6 +42,9 @@
 - [React-native Android 在Jenkins上配置自动打包方案](http://blog.csdn.net/mobilexu/article/details/50084115) (原创)
 - [Windows下搭建React Native开发环境](http://www.jianshu.com/p/3d716097fe08?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 
+- [React Native For Android の 修改React Native为本地依赖](http://www.jianshu.com/p/cca40c19faa0)
+
+- [Android React Native使用原生模块](http://blog.csdn.net/sbsujjbcy/article/details/49953041)
 
 #React-native Android开源项目
 - HackerNews-React-Native   https://github.com/iSimar/HackerNews-React-Native
