@@ -46,6 +46,8 @@
 
 - [Android React Native使用原生模块](http://blog.csdn.net/sbsujjbcy/article/details/49953041)
 
+- [饿了么React-natice Android 热更新方案](http://richard-cao.github.io/2015/12/03/React-natice-Android-热更新/)
+- 
 #React-native Android开源项目
 - HackerNews-React-Native   https://github.com/iSimar/HackerNews-React-Native
 - 煎蛋客户端 https://github.com/w4lle/JianDan-React-Native
