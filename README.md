@@ -62,3 +62,4 @@
 
 - MRN 0.1.0发布了，MRN是一个基于React Native的Material Design风格的组件库。
 [官方网站 ](http://mrn.js.org)  -- [Github ](https://github.com/binggg/mrn)---[示例应用在线演示](https://appetize.io/app/j48zj9r83cetpd1mhg4g8buc4w) ---- [DemoAPP](https://github.com/binggg/MaterialReactNative/blob/master/android/app/build/outputs/apk/app-release.apk?) 备注，由于用了API21+的API，暂时只支持安卓5.0以上，后期会支持低版本
+- [react-native-viewpager](https://github.com/race604/react-native-viewpager?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)-This is the ViewPager componnent in React Native both for Android and iOS.
