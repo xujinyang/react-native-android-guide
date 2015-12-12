@@ -16,7 +16,7 @@
 #鸡汤总览
 
 - [了解React-native全貌加鸡汤，看完就会手痒](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401107957&idx=1&sn=200418877771f656c1a0ab33ad407516&scene=1&srcid=1119XfFA8t5QQprIjzp76fcr&key=ff7411024a07f3ebf6601418be94ccd6219ed18e580029547278b6eadd5def524defc8dbfdfcf673a7daa87723cfa4bb&ascene=0&uin=NTYzMDc5MTc1&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=a82zcv0P%2B6ztN4xgcdnD%2FWtFbQjxhMOiiUJGZVbk6FUhTeozLqrMlGuES%2FvVmaI0)
-
+- [React Native 调研报告](http://blog.csdn.net/lihuiqwertyuiop/article/details/45241909?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 #入门教程
 - [中国好教程-react native中文视频教程](http://www.ejiakt.com/album/show/211)(看视频是小白入门的很好途径)
@@ -31,6 +31,8 @@
 - [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=0#rd) 
 
 - [React-Native-Remote-Update](https://github.com/fengjundev/React-Native-Remote-Update) (react-native-android 热更新方案)
+
+- [使用react-native中的Navigator组件进行页面导航](http://www.cnblogs.com/flyingzl/articles/4913693.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 
 #踩坑列表
@@ -47,7 +49,7 @@
 - [Android React Native使用原生模块](http://blog.csdn.net/sbsujjbcy/article/details/49953041)
 
 - [饿了么React-natice Android 热更新方案](http://richard-cao.github.io/2015/12/03/React-natice-Android-热更新/)
-- 
+ 
 #React-native Android开源项目
 - HackerNews-React-Native   https://github.com/iSimar/HackerNews-React-Native
 - 煎蛋客户端 https://github.com/w4lle/JianDan-React-Native
