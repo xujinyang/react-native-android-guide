@@ -33,6 +33,7 @@
 - [React-Native-Remote-Update](https://github.com/fengjundev/React-Native-Remote-Update) (react-native-android 热更新方案)
 
 - [使用react-native中的Navigator组件进行页面导航](http://www.cnblogs.com/flyingzl/articles/4913693.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [『译』React Mixin 的使用](http://segmentfault.com/a/1190000003016446)
 
 
 #踩坑列表
