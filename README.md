@@ -35,6 +35,12 @@
 - [使用react-native中的Navigator组件进行页面导航](http://www.cnblogs.com/flyingzl/articles/4913693.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [『译』React Mixin 的使用](http://segmentfault.com/a/1190000003016446)
 
+#项目级别架构flux
+		Flux是Facebook用来构建客户端Web应用的应用架构。它利用单向数据流的方式来组合React中的视图组件。适用于react/react-native
+
+- [Facebook：MVC不适合大规模应用，改用Flux](http://www.infoq.com/cn/news/2014/05/facebook-mvc-flux/)
+- [谈一谈我对 React Flux 架构的理解](http://www.cocoachina.com/webapp/20150928/13600.html)
+- [使用 React 和 Flux 创建一个记事本应用](http://www.jcodecraeer.com/a/javascript/2015/0311/2581.html)
 
 #踩坑列表
 
