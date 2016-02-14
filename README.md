@@ -45,6 +45,7 @@
 
 - [使用react-native中的Navigator组件进行页面导航](http://www.cnblogs.com/flyingzl/articles/4913693.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [『译』React Mixin 的使用](http://segmentfault.com/a/1190000003016446)
+- [React Native专题-入门,基础,进阶提交-不断更新ing](http://www.lcode.org/react-native/)
 
 #项目级别架构flux
 		Flux是Facebook用来构建客户端Web应用的应用架构。它利用单向数据流的方式来组合React中的视图组件。适用于react/react-native
