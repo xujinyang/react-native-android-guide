@@ -12,10 +12,6 @@
 - [天猫技术团队使用React Native代替H5实现产品化落地](http://mp.weixin.qq.com/s?__biz=MzA3Mjk1MjA4Nw==&mid=209278158&idx=1&sn=0a6a12eeab5ed87973de055196eac5b8#rd) 
 ###饿了么蜂鸟众包团队在react-native Android方面的实践
 		蜂鸟众包也许是国内首个在线上使用react-native的团队，从react-native v0.14.0 到最新的v0.18.0 踩了很多的坑，也积累的丰富的经验，现在蜂鸟众包中有通知中心和等级特权两个模块使用了react-native，欢迎下载体验。
-        
-![](http://7o4zmy.com1.z0.glb.clouddn.com/device-2016-01-19-222319.png)
-
-![](http://7o4zmy.com1.z0.glb.clouddn.com/device-2016-01-19-222354.png)
 下面是我的队友的踩坑笔记
 - [React-Native Android 初次踩坑之旅](http://richard-cao.github.io/2015/11/24/React-native-Android-%E5%88%9D%E6%AC%A1%E8%B8%A9%E5%9D%91%E4%B9%8B%E6%97%85/)
 - [饿了么React-native Android 热更新方案](http://richard-cao.github.io/2015/12/03/React-native-Android-热更新/)
